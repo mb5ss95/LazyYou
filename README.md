@@ -17,6 +17,5 @@
 <br/>
 
 ## 결 과(Output)
-<img width="306" alt="lazyyou" src="https://github.com/mb5ss95/LazyYou/assets/60500325/9ec2f2f0-794d-43aa-84e0-9bde06a1c466">
 <img width="1280" alt="lazyYou입력후" src="https://github.com/mb5ss95/LazyYou/assets/60500325/2c865ff1-2e4b-476e-b476-e314d5229a21">
 
