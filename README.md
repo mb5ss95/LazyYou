@@ -1,6 +1,6 @@
 # LazyYou
 <br/>
-<img width="549" alt="화면 캡처 2023-05-29 022239" src="https://github.com/mb5ss95/LazyMoon/assets/60500325/3b8e87bb-1c57-460e-9926-24b08c1c0270">
+<img width="1280" alt="lazyYou입력전" src="https://github.com/mb5ss95/LazyYou/assets/60500325/6d8085c1-ef5a-4681-8182-1d1eb2c6e265">
 <br/>
 
 ## 설 명(Explanation)
@@ -17,4 +17,6 @@
 <br/>
 
 ## 결 과(Output)
-<img width="310" alt="화면 캡처 2023-05-29 022307" src="https://github.com/mb5ss95/LazyMoon/assets/60500325/c774505f-17cf-480b-b7e0-178a9c1b34b9">
+<img width="306" alt="lazyyou" src="https://github.com/mb5ss95/LazyYou/assets/60500325/9ec2f2f0-794d-43aa-84e0-9bde06a1c466">
+<img width="1280" alt="lazyYou입력후" src="https://github.com/mb5ss95/LazyYou/assets/60500325/2c865ff1-2e4b-476e-b476-e314d5229a21">
+
